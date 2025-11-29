@@ -1,0 +1,8 @@
+# Web Scraping
+playwright==1.48.0
+
+# Banco de Dados
+psycopg2-binary>=2.9.9
+
+# Configuração (opcional - para variáveis de ambiente)
+python-dotenv>=1.0.0
